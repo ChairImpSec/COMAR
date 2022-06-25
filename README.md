@@ -1,7 +1,7 @@
 # COMAR
 Composable Gadgets with Reused Fresh Masks
 
-This repository contains the source code (HDL files) for the paper "Composable Gadgets with Reused Fresh Masks -- First-Order Probing-Secure Hardware Circuits with only 6 Fresh Masks".
+This repository contains the source code (HDL files) for the paper "Composable Gadgets with Reused Fresh Masks, First-Order Probing-Secure Hardware Circuits with only 6 Fresh Masks".
 
 [AGEMA](https://github.com/Chair-for-Security-Engineering/agema), the tool which automatically generates masked hardware, already supports COMAR.
 
@@ -13,4 +13,4 @@ All rights reserved.
 Please see `LICENSE` for further license instructions.
 
 ## Publications
-D. Knichel and A. Moradi: "Composable Gadgets with Reused Fresh Masks -- First-Order Probing-Secure Hardware Circuits with only 6 Fresh Masks" (TCHES 2022, Issue 3) https://doi.org/10.46586/tches.v2022.i3.114-140
+D. Knichel and A. Moradi: "Composable Gadgets with Reused Fresh Masks, First-Order Probing-Secure Hardware Circuits with only 6 Fresh Masks" (TCHES 2022, Issue 3) https://doi.org/10.46586/tches.v2022.i3.114-140
